@@ -25,6 +25,5 @@ To get started with the project, follow these steps:
 3. Run a demo:
     ```bash
     cd examples
-    DEEPSEEK_API_KEY=<your_deepseek_api_key> python decision_tree.py
-    DEEPSEEK_API_KEY=<your_deepseek_api_key> python model_advisor.py
+    DEEPSEEK_API_KEY=<your_deepseek_api_key> python workflow.py
     ```
