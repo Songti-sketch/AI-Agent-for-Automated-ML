@@ -17,13 +17,13 @@ logging.basicConfig(level=logging.INFO)
 # DATA_NAME = "./resources/house_prices_train.csv"
 # target_col = "SalePrice"
 
-# # Example: Predicting the probability of getting lung canncer
-# DATA_NAME = "./resources/WA_Marketing-Campaign.csv"
-# target_col = "SalesInThousands"
+# Example: Predicting the probability of getting lung canncer
+DATA_NAME = "./resources/WA_Marketing-Campaign.csv"
+target_col = "SalesInThousands"
 
-# Example: Classification task
-DATA_NAME = "./resources/creditcard.csv"
-target_col = "Class"
+# # Example: Classification task
+# DATA_NAME = "./resources/creditcard.csv"
+# target_col = "Class"
 
 # # Example: Prediction task
 # DATA_NAME = "./resources/Bank_Personal_Loan_Modelling.csv"
