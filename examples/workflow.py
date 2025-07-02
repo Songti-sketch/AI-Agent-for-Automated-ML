@@ -2,7 +2,7 @@ import logging
 import pandas as pd
 import time
 from ml_master.workflow import solve
-#  DEEPSEEK_API_KEY='sk-f91476d2d0b54831947ef8123cc52c83' python workflow.py
+#  DEEPSEEK_API_KEY='sk-xxxxx' python workflow.py
 logging.basicConfig(level=logging.INFO)
 
 # # Example: Predicting the price of a car using a dataset
